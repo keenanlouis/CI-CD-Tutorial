@@ -2,7 +2,7 @@ name: CI to GHCR
 
 on:
   push:
-      braches [ master ]
+      braches: [ master ]
     
 jobs:
 
